@@ -1,0 +1,1 @@
+Contains the results of experiments for the free cache for both LRU and SCRP algorithms.
